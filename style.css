@@ -2,6 +2,22 @@ body {
     background-color: #333;
     color: #f4f4f4;
 }
+
+h1{
+	color: white;
+	margin: 20px 0px 20px;
+	font-size: 75px;
+}
+h3{
+	color: white;
+	font-size: 25px;
+	margin-bottom: 50px;
+}
+h4{
+	color: #fcfc;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
 .about{
 	width: 100%;
 	padding: 100px 0px;
